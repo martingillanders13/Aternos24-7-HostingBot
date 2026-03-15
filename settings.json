@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "afk_bot_for_24/7",
+    "password": "hello",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "ur_mom-Dd7V.aternos.me:47584",
+    "port": 47584,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "hi ",
+        "!"
       ]
     },
     "chat-log": true,
